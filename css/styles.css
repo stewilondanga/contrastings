@@ -130,19 +130,17 @@ header h1 {
   color: #aaa;
 }
 
-/*#explanation1 {
-	width:calc(100% - 80px);
-	padding:40px;
-	padding-top:20px;
-
-	display:flex;
-	flex-direction:column;
-	align-items:center;
-
-	font-family: 'Playfair Display', serif;
+#explanation1 {
+  width: calc(100% - 80px);
+  padding: 40px;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Playfair Display', serif;
 }
 
-#explanation1 h2 {
+/*#explanation1 h2 {
 	font-size:28px;
 	color:#555;
 	text-align:center;
