@@ -164,16 +164,15 @@ header h1 {
   font-family: 'Playfair Display', serif;
 }
 
-/*#explanation2 h2 {
-	font-size:28px;
-	color:#555;
-	text-align:center;
-
-	width:70%;
-	margin-bottom:14px;
+#explanation2 h2 {
+  font-size: 28px;
+  color: #555;
+  text-align: center;
+  width: 70%;
+  margin-bottom: 14px;
 }
 
-#explanation2 p {
+/*#explanation2 p {
 	font-size:21px;
 	width:70%;
 	color:#000;
