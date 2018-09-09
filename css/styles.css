@@ -18,9 +18,13 @@
   color: #ddd;
 }
 
-/*html { display:flex;flex-direction:column;align-items:center;}
+html {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
-body {
+/*body {
 	display:flex;
 	flex-direction:column;
 	align-items:center;
