@@ -172,13 +172,13 @@ header h1 {
   margin-bottom: 14px;
 }
 
-/*#explanation2 p {
-	font-size:21px;
-	width:70%;
-	color:#000;
+#explanation2 p {
+  font-size: 21px;
+  width: 70%;
+  color: #000;
 }
 
-#example2 {
+/*#example2 {
 	width:calc(90% - 80px);
 	padding:40px;
 
