@@ -32,11 +32,13 @@ body {
   box-shadow: 0 0 30px 0 rgba(0, 0, 0, .14);
 }
 
-/*@media screen and (max-width:940px) {
-	body { width:initial;}
+@media screen and (max-width:940px) {
+  body {
+    width: initial;
+  }
 }
 
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
