@@ -178,16 +178,15 @@ header h1 {
   color: #000;
 }
 
-/*#example2 {
-	width:calc(90% - 80px);
-	padding:40px;
-
-	display:flex;
-	flex-direction:row;
-	justify-content:space-around;
+#example2 {
+  width: calc(90% - 80px);
+  padding: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
 
-#example2 .example {
+/*#example2 .example {
 	width:calc(46% - 80px);
 	padding:40px;
 
