@@ -118,9 +118,11 @@ header h1 {
   color: #4caf50;
 }
 
-/*#example1 .example.second .material-icons { color:#d32f2f;}
+#example1 .example.second .material-icons {
+  color: #d32f2f;
+}
 
-#example1 .example.first .dark { color:#333;}
+/*#example1 .example.first .dark { color:#333;}
 #example1 .example.first .light { color:#aaa;}
 
 #explanation1 {
