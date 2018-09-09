@@ -8,8 +8,12 @@
   color: #ddd;
 }
 
-/*::-moz-selection { background-color:#222;color:#ddd;}
-::-webkit-selection { background-color:#222;color:#ddd;}
+::-moz-selection {
+  background-color: #222;
+  color: #ddd;
+}
+
+/*::-webkit-selection { background-color:#222;color:#ddd;}
 
 html { display:flex;flex-direction:column;align-items:center;}
 
