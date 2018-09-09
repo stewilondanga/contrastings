@@ -1,7 +1,9 @@
-/*
-* { padding:0;margin:0;}
+* {
+  padding: 0;
+  margin: 0;
+}
 
-::selection { background-color:#222;color:#ddd;}
+/*::selection { background-color:#222;color:#ddd;}
 ::-moz-selection { background-color:#222;color:#ddd;}
 ::-webkit-selection { background-color:#222;color:#ddd;}
 
