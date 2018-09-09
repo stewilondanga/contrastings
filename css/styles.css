@@ -233,13 +233,13 @@ header h1 {
   color: #555;
 }
 
-/*#info p.small {
-	margin-top:10px;
-	font-size:17px;
-	color:#999;
+#info p.small {
+  margin-top: 10px;
+  font-size: 17px;
+  color: #999;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
