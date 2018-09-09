@@ -126,9 +126,11 @@ header h1 {
   color: #333;
 }
 
-/*#example1 .example.first .light { color:#aaa;}
+#example1 .example.first .light {
+  color: #aaa;
+}
 
-#explanation1 {
+/*#explanation1 {
 	width:calc(100% - 80px);
 	padding:40px;
 	padding-top:20px;
