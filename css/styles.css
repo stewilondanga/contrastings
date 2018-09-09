@@ -85,16 +85,15 @@ header h1 {
   width: 70%;
 }
 
-/*#example1 {
-	width:calc(90% - 80px);
-	padding:40px;
-
-	display:flex;
-	flex-direction:row;
-	justify-content:space-around;
+#example1 {
+  width: calc(90% - 80px);
+  padding: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
 
-#example1 .example {
+/*#example1 .example {
 	width:calc(46% - 80px);
 	padding:40px;
 
