@@ -225,16 +225,15 @@ header h1 {
   box-shadow: 0 0 20px rgba(0, 0, 0, .14);
 }
 
-/*#info p {
-	font-size:20px;
-	font-family:'Playfair Display', serif;
-	width:80%;
-	margin:0 auto;
-
-	color:#555;
+#info p {
+  font-size: 20px;
+  font-family: 'Playfair Display', serif;
+  width: 80%;
+  margin: 0 auto;
+  color: #555;
 }
 
-#info p.small {
+/*#info p.small {
 	margin-top:10px;
 	font-size:17px;
 	color:#999;
