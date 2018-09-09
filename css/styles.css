@@ -154,19 +154,17 @@ header h1 {
   color: #000;
 }
 
-/*#explanation2 {
-	width:calc(100% - 80px);
-	padding:40px;
-	padding-top:20px;
-
-	display:flex;
-	flex-direction:column;
-	align-items:center;
-
-	font-family: 'Playfair Display', serif;
+#explanation2 {
+  width: calc(100% - 80px);
+  padding: 40px;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Playfair Display', serif;
 }
 
-#explanation2 h2 {
+/*#explanation2 h2 {
 	font-size:28px;
 	color:#555;
 	text-align:center;
