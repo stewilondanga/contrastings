@@ -211,8 +211,11 @@ header h1 {
   color: #ccc;
 }
 
-/*#example2 .example.first .material-icons { color:#4caf50;}
-#example2 .example.second .material-icons { color:#d32f2f;}
+#example2 .example.first .material-icons {
+  color: #4caf50;
+}
+
+/*#example2 .example.second .material-icons { color:#d32f2f;}
 
 #info {
 	width:calc(100% - 80px);
